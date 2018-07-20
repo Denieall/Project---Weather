@@ -71,6 +71,12 @@ public class ChangeCityActivity extends AppCompatActivity {
             }
         });
 
+    }
+
+    @Override
+    protected void onStart() {
+        super.onStart();
+
         IntentFilter city_error_intent_filter = new IntentFilter();
         city_error_intent_filter.addAction(CITY_ERROR_CHANNEL);
         registerReceiver(city_error_receiver, city_error_intent_filter);
