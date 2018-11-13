@@ -25,8 +25,8 @@ This application was built to grasp certain concepts such as:
 ## Library/API Used
 
 <ol>
-  <li><a href="https://github.com/bumptech/glide">&nbsp;glide </a>by loopj</li>
-  <li><a href="https://github.com/loopj/android-async-http">&nbsp;android-async-http </a>by bumptech</li>
+  <li><a href="https://github.com/bumptech/glide">&nbsp;glide </a>by bumptech</li>
+  <li><a href="https://github.com/loopj/android-async-http">&nbsp;android-async-http </a>by loopj</li>
   <li><a href="https://openweathermap.org/current">&nbsp;OpenWeatherMap </a>API</li>
 </ol>
 
